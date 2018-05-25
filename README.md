@@ -79,22 +79,22 @@ This application aims to expose Amacoin Wallet Informations
 
 #### Response
 
-     [
-	    {
-            "date": 1526978053,
-            "from": "1ZESFph9SyhaxLrL1va4Qjq7cKVbuTh3BXozVj",
-            "to": "13nNUaNU1XHKbBvPNQXtFnbVbgbD3vfhf6LTts",
-            "amount": 10.0
-        },
-	    {
-            "date": 1526978150,
-            "from": "13nNUaNU1XHKbBvPNQXtFnbVbgbD3vfhf6LTts",
-            "to": "1ZESFph9SyhaxLrL1va4Qjq7cKVbuTh3BXozVj",
-            "amount": 1.0
-        }
+     	[
+	    	{
+		    "date": 1526978053,
+		    "from": "1ZESFph9SyhaxLrL1va4Qjq7cKVbuTh3BXozVj",
+		    "to": "13nNUaNU1XHKbBvPNQXtFnbVbgbD3vfhf6LTts",
+		    "amount": 10.0
+		},
+		    {
+		    "date": 1526978150,
+		    "from": "13nNUaNU1XHKbBvPNQXtFnbVbgbD3vfhf6LTts",
+		    "to": "1ZESFph9SyhaxLrL1va4Qjq7cKVbuTh3BXozVj",
+		    "amount": 1.0
+		}
 	]
     
-### POST -> /transactions
+### POST -> /transaction
 
 #### Request
 
