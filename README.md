@@ -94,7 +94,7 @@ This application aims to expose Amacoin Wallet Informations
 		}
 	]
     
-### POST -> /transaction
+### POST -> /transactions
 
 #### Request
 
